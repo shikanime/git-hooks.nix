@@ -134,6 +134,7 @@ in
     mdl
     mdsh
     nil
+    nix
     nixpkgs-fmt
     ormolu
     pre-commit-hook-ensure-sops
