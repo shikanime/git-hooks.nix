@@ -44,6 +44,7 @@
 , mdl
 , mdsh
 , nil
+, nix
 , nixfmt
 , nixfmt-classic ? null
 , nixfmt-rfc-style ? null
